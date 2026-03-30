@@ -193,6 +193,7 @@ See [LICENSE](LICENSE) for full text.
 ## Credits
 
 Developed by **Z3r0C00l** / [Dynart Interactive](https://github.com/DynartInteractive)
+https://buymeacoffee.com/z3r0c00l
 
 ---
 
